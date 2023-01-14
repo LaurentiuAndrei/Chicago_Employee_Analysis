@@ -1,6 +1,8 @@
 # Chicago_Employee_Analysis
 Analized data about the employees of Chicago.
 
+Tableau public link (data visualization) : https://public.tableau.com/app/profile/laurentiu.andrei/viz/chicago_employees/Dashboard1
+
 In this analysis I seeked to answer the following questions:
 
 1. What are the top 5 best paid job titles which are being paid annualy?
