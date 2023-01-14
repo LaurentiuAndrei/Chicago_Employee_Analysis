@@ -1,8 +1,10 @@
 # Chicago_Employee_Analysis
+
+- Tableau public (data visualization) : https://public.tableau.com/app/profile/laurentiu.andrei/viz/chicago_employees/Dashboard1
+- SQL Queries used:  https://github.com/LaurentiuAndrei/Chicago_Employee_Analysis/blob/main/chicago_employees.sql
+
+
 Analized data about the employees of Chicago.
-
-Tableau public link (data visualization) : https://public.tableau.com/app/profile/laurentiu.andrei/viz/chicago_employees/Dashboard1
-
 In this analysis I seeked to answer the following questions:
 
 1. What are the top 5 best paid job titles which are being paid annualy?
