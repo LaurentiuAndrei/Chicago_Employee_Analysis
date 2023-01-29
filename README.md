@@ -16,12 +16,12 @@ The dataset has been downloaded from https://data.cityofchicago.org/Administrati
 
 Analysis procedure:
 
-0. Download the dataset
-1. Import the data into a local MYSQL database
-2. Clean the data using  SQL queries
-3. Analyze the data using SQL queries
-4. Connect to the database though Tableau
-5. Create a visualization dashboard in Tableau
+1. Download the dataset
+2. Import the data into a local MYSQL database
+3. Clean the data using  SQL queries
+4. Analyze the data using SQL queries
+5. Connect to the database though Tableau
+6. Create a visualization dashboard in Tableau
 
 Technologies used:
 - MySQL database
